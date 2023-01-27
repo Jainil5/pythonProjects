@@ -1,0 +1,28 @@
+    if lmList != []:
+        # getting the value at a point
+        # x      #y
+        x8, y8 = lmList[8][1], lmList[8][2]
+        x7, y7 = lmList[7][1], lmList[7][2]
+        x6, y6 = lmList[6][1], lmList[6][2]
+        x5, y5 = lmList[5][1], lmList[5][2]
+
+        x0, y0 = lmList[0][1], lmList[0][2]
+        x1, y1 = lmList[1][1], lmList[1][2]
+        x2, y2 = lmList[2][1], lmList[2][2]
+        x3, y3 = lmList[3][1], lmList[3][2]
+        x4, y4 = lmList[4][1], lmList[4][2]
+        x9, y9 = lmList[9][1], lmList[9][2]
+        x10, y10 = lmList[10][1], lmList[10][2]
+        x11, y11 = lmList[11][1], lmList[11][2]
+        x12, y12 = lmList[12][1], lmList[12][2]
+        x13, y13 = lmList[13][1], lmList[13][2]
+        x14, y14 = lmList[14][1], lmList[14][2]
+        x15, y15 = lmList[15][1], lmList[15][2]
+        x16, y16 = lmList[16][1], lmList[16][2]
+        x17, y17 = lmList[17][1], lmList[17][2]
+        x18, y18 = lmList[18][1], lmList[18][2]
+        x19, y19 = lmList[19][1], lmList[19][2]
+        x20, y20 = lmList[20][1], lmList[20][2]
+
+
+        list2=[y0,y1,y2,y3,y4,y9,y10,y11,y12,y13,y14,y15,y16,y17,y18,y19,y20]
