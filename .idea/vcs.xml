@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivy/Kivy-App-for-Person-Detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivy/Kivy-App-for-Person-Detection/buildozer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivy/camera-classifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivy/kivy_object_detection_camera_app" vcs="Git" />
   </component>
 </project>
